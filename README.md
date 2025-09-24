@@ -1,1 +1,0 @@
-# PurpleTeam-YARA-Rules
